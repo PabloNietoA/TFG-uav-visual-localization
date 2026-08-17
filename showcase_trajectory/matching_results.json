@@ -1,0 +1,932 @@
+{
+    "orb": {
+        "trajectory_name": "showcase_trajectory",
+        "matching_method": "orb",
+        "results": [
+            {
+                "query_image": "0.00s_showcase_trajectory.png",
+                "elapsed_seconds": 1.4708,
+                "estimated_global_pos_odometry": [
+                    434647.5,
+                    4478892.5
+                ],
+                "pure_odometry_pos": [
+                    434647.5,
+                    4478892.5
+                ],
+                "refined_global_pos": [
+                    434647.4297019932,
+                    4478892.694590675
+                ],
+                "top_5_matches": [
+                    {
+                        "tile_name": "5_5.png",
+                        "tile_info": {
+                            "name": "5_5.png",
+                            "row": 5,
+                            "column": 5,
+                            "origin_global": [
+                                434647.5,
+                                4478892.5
+                            ],
+                            "origin_orthophoto": [
+                                28670,
+                                19070
+                            ],
+                            "width_px": 5734,
+                            "height_px": 3814,
+                            "width_m": 1433.5,
+                            "height_m": 953.5
+                        },
+                        "score": 0.45820124692437486,
+                        "inliers": 51,
+                        "spatial_coverage": 0.2748046875,
+                        "estimated_pos": [
+                            434647.4083895013,
+                            4478891.340082884
+                        ]
+                    },
+                    {
+                        "tile_name": "4_5.png",
+                        "tile_info": {
+                            "name": "4_5.png",
+                            "row": 4,
+                            "column": 5,
+                            "origin_global": [
+                                434647.5,
+                                4479846.0
+                            ],
+                            "origin_orthophoto": [
+                                28670,
+                                15256
+                            ],
+                            "width_px": 5734,
+                            "height_px": 3814,
+                            "width_m": 1433.5,
+                            "height_m": 953.5
+                        },
+                        "score": 0.290403255856868,
+                        "inliers": 27,
+                        "spatial_coverage": 0.4051747300889757,
+                        "estimated_pos": [
+                            434647.68551020324,
+                            4478894.804138184
+                        ]
+                    },
+                    {
+                        "tile_name": "4_4.png",
+                        "tile_info": {
+                            "name": "4_4.png",
+                            "row": 4,
+                            "column": 4,
+                            "origin_global": [
+                                433214.0,
+                                4479846.0
+                            ],
+                            "origin_orthophoto": [
+                                22936,
+                                15256
+                            ],
+                            "width_px": 5734,
+                            "height_px": 3814,
+                            "width_m": 1433.5,
+                            "height_m": 953.5
+                        },
+                        "score": 0.15735236079268103,
+                        "inliers": 14,
+                        "spatial_coverage": 0.47561241997612846,
+                        "estimated_pos": [
+                            434647.0196533203,
+                            4478892.745544434
+                        ]
+                    },
+                    {
+                        "tile_name": "5_4.png",
+                        "tile_info": {
+                            "name": "5_4.png",
+                            "row": 5,
+                            "column": 4,
+                            "origin_global": [
+                                433214.0,
+                                4478892.5
+                            ],
+                            "origin_orthophoto": [
+                                22936,
+                                19070
+                            ],
+                            "width_px": 5734,
+                            "height_px": 3814,
+                            "width_m": 1433.5,
+                            "height_m": 953.5
+                        },
+                        "score": 0.1055154816064423,
+                        "inliers": 17,
+                        "spatial_coverage": 0.34156690809461804,
+                        "estimated_pos": [
+                            434606.8896484375,
+                            4478786.9662323
+                        ]
+                    },
+                    {
+                        "tile_name": "7_4.png",
+                        "tile_info": {
+                            "name": "7_4.png",
+                            "row": 7,
+                            "column": 4,
+                            "origin_global": [
+                                433214.0,
+                                4476985.5
+                            ],
+                            "origin_orthophoto": [
+                                22936,
+                                26698
+                            ],
+                            "width_px": 5734,
+                            "height_px": 3814,
+                            "width_m": 1433.5,
+                            "height_m": 953.5
+                        },
+                        "score": 0.07338872611548049,
+                        "inliers": 10,
+                        "spatial_coverage": 0.612942640516493,
+                        "estimated_pos": [
+                            433303.56771087646,
+                            4476933.350765228
+                        ]
+                    }
+                ]
+            },
+            {
+                "query_image": "1.00s_showcase_trajectory.png",
+                "elapsed_seconds": 0.9899,
+                "estimated_global_pos_odometry": [
+                    434662.43157500954,
+                    4478892.694098749
+                ],
+                "pure_odometry_pos": [
+                    434662.5041465759,
+                    4478892.499634611
+                ],
+                "refined_global_pos": [
+                    434659.8125904503,
+                    4478895.987248433
+                ],
+                "top_5_matches": [
+                    {
+                        "tile_name": "5_5.png",
+                        "tile_info": {
+                            "name": "5_5.png",
+                            "row": 5,
+                            "column": 5,
+                            "origin_global": [
+                                434647.5,
+                                4478892.5
+                            ],
+                            "origin_orthophoto": [
+                                28670,
+                                19070
+                            ],
+                            "width_px": 5734,
+                            "height_px": 3814,
+                            "width_m": 1433.5,
+                            "height_m": 953.5
+                        },
+                        "score": 1.070659957419596,
+                        "inliers": 51,
+                        "spatial_coverage": 0.5302571953667534,
+                        "estimated_pos": [
+                            434662.16483306885,
+                            4478892.789041162
+                        ]
+                    },
+                    {
+                        "tile_name": "4_5.png",
+                        "tile_info": {
+                            "name": "4_5.png",
+                            "row": 4,
+                            "column": 5,
+                            "origin_global": [
+                                434647.5,
+                                4479846.0
+                            ],
+                            "origin_orthophoto": [
+                                28670,
+                                15256
+                            ],
+                            "width_px": 5734,
+                            "height_px": 3814,
+                            "width_m": 1433.5,
+                            "height_m": 953.5
+                        },
+                        "score": 0.6993933964407536,
+                        "inliers": 31,
+                        "spatial_coverage": 0.6409130181206597,
+                        "estimated_pos": [
+                            434662.638051033,
+                            4478893.835876465
+                        ]
+                    },
+                    {
+                        "tile_name": "5_4.png",
+                        "tile_info": {
+                            "name": "5_4.png",
+                            "row": 5,
+                            "column": 4,
+                            "origin_global": [
+                                433214.0,
+                                4478892.5
+                            ],
+                            "origin_orthophoto": [
+                                22936,
+                                19070
+                            ],
+                            "width_px": 5734,
+                            "height_px": 3814,
+                            "width_m": 1433.5,
+                            "height_m": 953.5
+                        },
+                        "score": 0.14711294705674727,
+                        "inliers": 17,
+                        "spatial_coverage": 0.48320000542534725,
+                        "estimated_pos": [
+                            435218.650390625,
+                            4478806.582923889
+                        ]
+                    },
+                    {
+                        "tile_name": "4_4.png",
+                        "tile_info": {
+                            "name": "4_4.png",
+                            "row": 4,
+                            "column": 4,
+                            "origin_global": [
+                                433214.0,
+                                4479846.0
+                            ],
+                            "origin_orthophoto": [
+                                22936,
+                                15256
+                            ],
+                            "width_px": 5734,
+                            "height_px": 3814,
+                            "width_m": 1433.5,
+                            "height_m": 953.5
+                        },
+                        "score": 0.07831694694642867,
+                        "inliers": 11,
+                        "spatial_coverage": 0.4189456515842014,
+                        "estimated_pos": [
+                            434602.42321777344,
+                            4478958.921875
+                        ]
+                    },
+                    {
+                        "tile_name": "7_4.png",
+                        "tile_info": {
+                            "name": "7_4.png",
+                            "row": 7,
+                            "column": 4,
+                            "origin_global": [
+                                433214.0,
+                                4476985.5
+                            ],
+                            "origin_orthophoto": [
+                                22936,
+                                26698
+                            ],
+                            "width_px": 5734,
+                            "height_px": 3814,
+                            "width_m": 1433.5,
+                            "height_m": 953.5
+                        },
+                        "score": 0.05241204358883348,
+                        "inliers": 11,
+                        "spatial_coverage": 0.48789272732204864,
+                        "estimated_pos": [
+                            434504.4797363281,
+                            4476229.2548828125
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    "superpoint_lightglue": {
+        "trajectory_name": "showcase_trajectory",
+        "matching_method": "superpoint_lightglue",
+        "results": [
+            {
+                "query_image": "0.00s_showcase_trajectory.png",
+                "elapsed_seconds": 2.8662,
+                "estimated_global_pos_odometry": [
+                    434647.5,
+                    4478892.5
+                ],
+                "pure_odometry_pos": [
+                    434647.5,
+                    4478892.5
+                ],
+                "refined_global_pos": [],
+                "top_5_matches": [
+                    {
+                        "tile_name": "6_4.png",
+                        "tile_info": {
+                            "name": "6_4.png",
+                            "row": 6,
+                            "column": 4,
+                            "origin_global": [
+                                433214.0,
+                                4477939.0
+                            ],
+                            "origin_orthophoto": [
+                                22936,
+                                22884
+                            ],
+                            "width_px": 5734,
+                            "height_px": 3814,
+                            "width_m": 1433.5,
+                            "height_m": 953.5
+                        },
+                        "score": 118.82777777777778,
+                        "inliers": 64,
+                        "spatial_coverage": 0.8566840277777777,
+                        "estimated_pos": [
+                            433971.2189941406,
+                            4477098.689941406
+                        ]
+                    },
+                    {
+                        "tile_name": "4_7.png",
+                        "tile_info": {
+                            "name": "4_7.png",
+                            "row": 4,
+                            "column": 7,
+                            "origin_global": [
+                                437514.5,
+                                4479846.0
+                            ],
+                            "origin_orthophoto": [
+                                40138,
+                                15256
+                            ],
+                            "width_px": 5734,
+                            "height_px": 3814,
+                            "width_m": 1433.5,
+                            "height_m": 953.5
+                        },
+                        "score": 105.09498697916668,
+                        "inliers": 57,
+                        "spatial_coverage": 0.8437717013888889,
+                        "estimated_pos": [
+                            438745.57482910156,
+                            4479413.845855713
+                        ]
+                    },
+                    {
+                        "tile_name": "6_3.png",
+                        "tile_info": {
+                            "name": "6_3.png",
+                            "row": 6,
+                            "column": 3,
+                            "origin_global": [
+                                431780.5,
+                                4477939.0
+                            ],
+                            "origin_orthophoto": [
+                                17202,
+                                22884
+                            ],
+                            "width_px": 5734,
+                            "height_px": 3814,
+                            "width_m": 1433.5,
+                            "height_m": 953.5
+                        },
+                        "score": 99.37886718749999,
+                        "inliers": 54,
+                        "spatial_coverage": 0.8403493923611111,
+                        "estimated_pos": [
+                            432440.07794189453,
+                            4477455.709411621
+                        ]
+                    },
+                    {
+                        "tile_name": "8_4.png",
+                        "tile_info": {
+                            "name": "8_4.png",
+                            "row": 8,
+                            "column": 4,
+                            "origin_global": [
+                                433214.0,
+                                4476032.0
+                            ],
+                            "origin_orthophoto": [
+                                22936,
+                                30512
+                            ],
+                            "width_px": 5734,
+                            "height_px": 3814,
+                            "width_m": 1433.5,
+                            "height_m": 953.5
+                        },
+                        "score": 90.80736979166667,
+                        "inliers": 52,
+                        "spatial_coverage": 0.7462955729166667,
+                        "estimated_pos": [
+                            433509.4962158203,
+                            4475624.003875732
+                        ]
+                    },
+                    {
+                        "tile_name": "7_6.png",
+                        "tile_info": {
+                            "name": "7_6.png",
+                            "row": 7,
+                            "column": 6,
+                            "origin_global": [
+                                436081.0,
+                                4476985.5
+                            ],
+                            "origin_orthophoto": [
+                                34404,
+                                26698
+                            ],
+                            "width_px": 5734,
+                            "height_px": 3814,
+                            "width_m": 1433.5,
+                            "height_m": 953.5
+                        },
+                        "score": 75.10908854166667,
+                        "inliers": 49,
+                        "spatial_coverage": 0.5328385416666667,
+                        "estimated_pos": [
+                            438067.2022705078,
+                            4475660.358764648
+                        ]
+                    }
+                ]
+            },
+            {
+                "query_image": "1.00s_showcase_trajectory.png",
+                "elapsed_seconds": 2.6226,
+                "estimated_global_pos_odometry": [
+                    434662.5000143051,
+                    4478892.499929306
+                ],
+                "pure_odometry_pos": [
+                    434662.4999990463,
+                    4478892.499924045
+                ],
+                "refined_global_pos": [],
+                "top_5_matches": [
+                    {
+                        "tile_name": "4_7.png",
+                        "tile_info": {
+                            "name": "4_7.png",
+                            "row": 4,
+                            "column": 7,
+                            "origin_global": [
+                                437514.5,
+                                4479846.0
+                            ],
+                            "origin_orthophoto": [
+                                40138,
+                                15256
+                            ],
+                            "width_px": 5734,
+                            "height_px": 3814,
+                            "width_m": 1433.5,
+                            "height_m": 953.5
+                        },
+                        "score": 87.27109375,
+                        "inliers": 48,
+                        "spatial_coverage": 0.8181477864583333,
+                        "estimated_pos": [
+                            438567.5754394531,
+                            4479355.708312988
+                        ]
+                    },
+                    {
+                        "tile_name": "6_4.png",
+                        "tile_info": {
+                            "name": "6_4.png",
+                            "row": 6,
+                            "column": 4,
+                            "origin_global": [
+                                433214.0,
+                                4477939.0
+                            ],
+                            "origin_orthophoto": [
+                                22936,
+                                22884
+                            ],
+                            "width_px": 5734,
+                            "height_px": 3814,
+                            "width_m": 1433.5,
+                            "height_m": 953.5
+                        },
+                        "score": 79.88377604166666,
+                        "inliers": 44,
+                        "spatial_coverage": 0.8155403645833333,
+                        "estimated_pos": [
+                            433760.4993286133,
+                            4477410.996459961
+                        ]
+                    },
+                    {
+                        "tile_name": "6_3.png",
+                        "tile_info": {
+                            "name": "6_3.png",
+                            "row": 6,
+                            "column": 3,
+                            "origin_global": [
+                                431780.5,
+                                4477939.0
+                            ],
+                            "origin_orthophoto": [
+                                17202,
+                                22884
+                            ],
+                            "width_px": 5734,
+                            "height_px": 3814,
+                            "width_m": 1433.5,
+                            "height_m": 953.5
+                        },
+                        "score": 65.86870659722221,
+                        "inliers": 41,
+                        "spatial_coverage": 0.6065538194444444,
+                        "estimated_pos": [
+                            431601.7176055908,
+                            4478081.240081787
+                        ]
+                    },
+                    {
+                        "tile_name": "3_6.png",
+                        "tile_info": {
+                            "name": "3_6.png",
+                            "row": 3,
+                            "column": 6,
+                            "origin_global": [
+                                436081.0,
+                                4480799.5
+                            ],
+                            "origin_orthophoto": [
+                                34404,
+                                11442
+                            ],
+                            "width_px": 5734,
+                            "height_px": 3814,
+                            "width_m": 1433.5,
+                            "height_m": 953.5
+                        },
+                        "score": 61.21840169270833,
+                        "inliers": 33,
+                        "spatial_coverage": 0.8551030815972223,
+                        "estimated_pos": [
+                            436523.46759033203,
+                            4480297.261138916
+                        ]
+                    },
+                    {
+                        "tile_name": "5_4.png",
+                        "tile_info": {
+                            "name": "5_4.png",
+                            "row": 5,
+                            "column": 4,
+                            "origin_global": [
+                                433214.0,
+                                4478892.5
+                            ],
+                            "origin_orthophoto": [
+                                22936,
+                                19070
+                            ],
+                            "width_px": 5734,
+                            "height_px": 3814,
+                            "width_m": 1433.5,
+                            "height_m": 953.5
+                        },
+                        "score": 60.845149739583334,
+                        "inliers": 38,
+                        "spatial_coverage": 0.6011881510416667,
+                        "estimated_pos": [
+                            434572.2137451172,
+                            4477986.731628418
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    "sift": {
+        "trajectory_name": "showcase_trajectory",
+        "matching_method": "sift",
+        "results": [
+            {
+                "query_image": "0.00s_showcase_trajectory.png",
+                "elapsed_seconds": 102.4795,
+                "estimated_global_pos_odometry": [
+                    434647.5,
+                    4478892.5
+                ],
+                "pure_odometry_pos": [
+                    434647.5,
+                    4478892.5
+                ],
+                "refined_global_pos": [
+                    434647.37424640305,
+                    4478892.751541578
+                ],
+                "top_5_matches": [
+                    {
+                        "tile_name": "5_5.png",
+                        "tile_info": {
+                            "name": "5_5.png",
+                            "row": 5,
+                            "column": 5,
+                            "origin_global": [
+                                434647.5,
+                                4478892.5
+                            ],
+                            "origin_orthophoto": [
+                                28670,
+                                19070
+                            ],
+                            "width_px": 5734,
+                            "height_px": 3814,
+                            "width_m": 1433.5,
+                            "height_m": 953.5
+                        },
+                        "score": 0.4644579462615856,
+                        "inliers": 79,
+                        "spatial_coverage": 0.26166946411132813,
+                        "estimated_pos": [
+                            434647.3731958419,
+                            4478892.752962053
+                        ]
+                    },
+                    {
+                        "tile_name": "4_5.png",
+                        "tile_info": {
+                            "name": "4_5.png",
+                            "row": 4,
+                            "column": 5,
+                            "origin_global": [
+                                434647.5,
+                                4479846.0
+                            ],
+                            "origin_orthophoto": [
+                                28670,
+                                15256
+                            ],
+                            "width_px": 5734,
+                            "height_px": 3814,
+                            "width_m": 1433.5,
+                            "height_m": 953.5
+                        },
+                        "score": 0.09485264491210302,
+                        "inliers": 34,
+                        "spatial_coverage": 0.20841934204101562,
+                        "estimated_pos": [
+                            434647.3795610145,
+                            4478892.752441406
+                        ]
+                    },
+                    {
+                        "tile_name": "5_4.png",
+                        "tile_info": {
+                            "name": "5_4.png",
+                            "row": 5,
+                            "column": 4,
+                            "origin_global": [
+                                433214.0,
+                                4478892.5
+                            ],
+                            "origin_orthophoto": [
+                                22936,
+                                19070
+                            ],
+                            "width_px": 5734,
+                            "height_px": 3814,
+                            "width_m": 1433.5,
+                            "height_m": 953.5
+                        },
+                        "score": 0.07249305523064886,
+                        "inliers": 24,
+                        "spatial_coverage": 0.3181010267469618,
+                        "estimated_pos": [
+                            434647.3740234375,
+                            4478892.74126333
+                        ]
+                    },
+                    {
+                        "tile_name": "2_4.png",
+                        "tile_info": {
+                            "name": "2_4.png",
+                            "row": 2,
+                            "column": 4,
+                            "origin_global": [
+                                433214.0,
+                                4481753.0
+                            ],
+                            "origin_orthophoto": [
+                                22936,
+                                7628
+                            ],
+                            "width_px": 5734,
+                            "height_px": 3814,
+                            "width_m": 1433.5,
+                            "height_m": 953.5
+                        },
+                        "score": 0.022817562169263783,
+                        "inliers": 14,
+                        "spatial_coverage": 0.6065250651041667,
+                        "estimated_pos": [
+                            434679.1887207031,
+                            4480959.142272949
+                        ]
+                    },
+                    {
+                        "tile_name": "4_4.png",
+                        "tile_info": {
+                            "name": "4_4.png",
+                            "row": 4,
+                            "column": 4,
+                            "origin_global": [
+                                433214.0,
+                                4479846.0
+                            ],
+                            "origin_orthophoto": [
+                                22936,
+                                15256
+                            ],
+                            "width_px": 5734,
+                            "height_px": 3814,
+                            "width_m": 1433.5,
+                            "height_m": 953.5
+                        },
+                        "score": 0.022213891309529204,
+                        "inliers": 13,
+                        "spatial_coverage": 0.5638091701931424,
+                        "estimated_pos": [
+                            434085.6067504883,
+                            4479196.906921387
+                        ]
+                    }
+                ]
+            },
+            {
+                "query_image": "1.00s_showcase_trajectory.png",
+                "elapsed_seconds": 2.725,
+                "estimated_global_pos_odometry": [
+                    434662.3742225612,
+                    4478892.751537821
+                ],
+                "pure_odometry_pos": [
+                    434662.49995326996,
+                    4478892.499994653
+                ],
+                "refined_global_pos": [
+                    434662.37443306483,
+                    4478892.75030135
+                ],
+                "top_5_matches": [
+                    {
+                        "tile_name": "5_5.png",
+                        "tile_info": {
+                            "name": "5_5.png",
+                            "row": 5,
+                            "column": 5,
+                            "origin_global": [
+                                434647.5,
+                                4478892.5
+                            ],
+                            "origin_orthophoto": [
+                                28670,
+                                19070
+                            ],
+                            "width_px": 5734,
+                            "height_px": 3814,
+                            "width_m": 1433.5,
+                            "height_m": 953.5
+                        },
+                        "score": 0.9831599647049398,
+                        "inliers": 96,
+                        "spatial_coverage": 0.35825476752387153,
+                        "estimated_pos": [
+                            434662.373796463,
+                            4478892.751497924
+                        ]
+                    },
+                    {
+                        "tile_name": "4_5.png",
+                        "tile_info": {
+                            "name": "4_5.png",
+                            "row": 4,
+                            "column": 5,
+                            "origin_global": [
+                                434647.5,
+                                4479846.0
+                            ],
+                            "origin_orthophoto": [
+                                28670,
+                                15256
+                            ],
+                            "width_px": 5734,
+                            "height_px": 3814,
+                            "width_m": 1433.5,
+                            "height_m": 953.5
+                        },
+                        "score": 0.3360701096970753,
+                        "inliers": 37,
+                        "spatial_coverage": 0.5882069905598958,
+                        "estimated_pos": [
+                            434662.3773317337,
+                            4478892.751098633
+                        ]
+                    },
+                    {
+                        "tile_name": "5_4.png",
+                        "tile_info": {
+                            "name": "5_4.png",
+                            "row": 5,
+                            "column": 4,
+                            "origin_global": [
+                                433214.0,
+                                4478892.5
+                            ],
+                            "origin_orthophoto": [
+                                22936,
+                                19070
+                            ],
+                            "width_px": 5734,
+                            "height_px": 3814,
+                            "width_m": 1433.5,
+                            "height_m": 953.5
+                        },
+                        "score": 0.12215724116103448,
+                        "inliers": 24,
+                        "spatial_coverage": 0.4721881103515625,
+                        "estimated_pos": [
+                            434662.37158203125,
+                            4478892.738477513
+                        ]
+                    },
+                    {
+                        "tile_name": "3_6.png",
+                        "tile_info": {
+                            "name": "3_6.png",
+                            "row": 3,
+                            "column": 6,
+                            "origin_global": [
+                                436081.0,
+                                4480799.5
+                            ],
+                            "origin_orthophoto": [
+                                34404,
+                                11442
+                            ],
+                            "width_px": 5734,
+                            "height_px": 3814,
+                            "width_m": 1433.5,
+                            "height_m": 953.5
+                        },
+                        "score": 0.035988380303477736,
+                        "inliers": 16,
+                        "spatial_coverage": 0.8375490315755209,
+                        "estimated_pos": [
+                            437429.7717285156,
+                            4480696.523178101
+                        ]
+                    },
+                    {
+                        "tile_name": "2_6.png",
+                        "tile_info": {
+                            "name": "2_6.png",
+                            "row": 2,
+                            "column": 6,
+                            "origin_global": [
+                                436081.0,
+                                4481753.0
+                            ],
+                            "origin_orthophoto": [
+                                34404,
+                                7628
+                            ],
+                            "width_px": 5734,
+                            "height_px": 3814,
+                            "width_m": 1433.5,
+                            "height_m": 953.5
+                        },
+                        "score": 0.02804828348991613,
+                        "inliers": 23,
+                        "spatial_coverage": 0.6990469699435764,
+                        "estimated_pos": [
+                            436929.5712890625,
+                            4481271.960968018
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+}

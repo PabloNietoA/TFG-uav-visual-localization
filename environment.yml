@@ -1,0 +1,24 @@
+name: TFG
+channels:
+  - pytorch
+  - nvidia
+  - conda-forge
+  - defaults
+dependencies:
+  - python=3.11
+  - pytorch
+  - torchvision
+  - torchaudio
+  - pytorch-cuda
+  - pip
+  - pip:
+      - numpy
+      - opencv-python
+      - matplotlib<3.9
+      - scipy
+      - scikit-learn
+      - kornia
+      - rasterio
+      - Pillow
+      - tqdm
+      - lightglue @ git+https://github.com/cvg/LightGlue.git
