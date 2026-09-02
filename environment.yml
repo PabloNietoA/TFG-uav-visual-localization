@@ -1,4 +1,4 @@
-name: TFG
+name: uav-visloc
 channels:
   - pytorch
   - nvidia
