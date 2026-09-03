@@ -70,8 +70,6 @@ uav-visual-localization/
 └── PROJECT_STRUCTURE.md            # Descripción pormenorizada de la arquitectura
 ```
 
-> Para conocer la responsabilidad de cada archivo en detalle, consulta [`PROJECT_STRUCTURE.md`](PROJECT_STRUCTURE.md).
->
 > **Nota sobre datos:** los directorios `ortophotos/` y `trajectories/` se conservan en el repositorio únicamente con un `.gitkeep`. Las ortofotos y los resultados de simulación/emparejamiento son **datos locales no versionados** que debes aportar o generar al ejecutar el pipeline.
 
 ---
@@ -244,4 +242,4 @@ El comando `pipeline` orquesta todo el ciclo y permite lanzar **familias de expe
 * **Datos de ejemplo:** ortofotografías del **PNOA** (Plan Nacional de Ortofotografía Aérea), Instituto Geográfico Nacional de España.
 * **Agradecimientos:** a los tutores y al equipo docente por la dirección y el apoyo durante el desarrollo del proyecto.
 
-> Las ortofotos y datos incluidos en `ortophotos/` y `trajectories/` se emplean únicamente con fines académicos y de investigación.
+> Las ortofotos y datos obtenidos del **PNOA** se han empleado únicamente con fines académicos y de investigación.
